@@ -1,0 +1,14 @@
++++
+title = "The Collective Choice of Oppression"
+date = 2025-08-13
++++
+
+So I've been going back to the gym lately and I think I hit a wall today. I was just too tired to go, and I don't enjoy how I don't seem to have the capacity for many things in life anymore. My body is also really sore and honestly I don't think I'm doing a whole lot when I am at the gym. I have such a long ways to go when it comes to my physicality. I regret falling into such a level of despair that rendered me immobile, feeble, and fragile. I'm getting older, but I'm not that old yet. I still have a lot of time left to experience the fervor of youth, so I want to do whatever it takes to make sure that I don't waste it away. But at the same time, my fragility makes itself readily apparent any time I try to push myself beyond the little box I've put myself in. Trauma overload has made it hard to get outside of myself, but I don't know how to get back to who I used to be. These days I am much more despondent and don't see much of a point in doing basically anything. This lack of purpose isn't something that I've rationally bound myself to—instead it comes from a deeper part of my brain and body. It's a spiritual sickness, no doubt about it. 
+
+I can point fingers at the world all I want. I can say that it's immoral and oppressive for those in power to hoard resources and stand on the dead bodies of the innocent, but calling it out on its own doesn't do anything for anyone. At one point or another, we all have seen the injustices of institutions and their negative outcomes for everyone. Despite this awareness, we choose not to do anything about it. We choose to stay in our own bubbles, blissfully tuning out anything that upsets our sensibilities. Even if something does upset these sensibilities, we will just briefly acknowledge it and move on without taking any action. So many horrible things in this world happen because it is simply our **collective choice** to let them happen. It's so easy for us to point our fingers at those in power and blame them for anything we wish. High gas prices? It's the administration's fault! Horrible stand-still traffic? Oh man, the city planner really did it this time. Tom from accounting didn't find my ironic t-shirt funny? Clearly the establishment has brainwashed Tom with their dogmatic agenda to make him not think that I'm hilarious. Pointing fingers gets us nowhere. If we don't want to make the world a better place, that's our choice. 
+
+The part that depresses me about this realization though is that we make this choice every day. Completely preventable problems end up not being prevented simply because we collectively chose not to. Now, why exactly would that happen? Well, to me the answer is simple: people by nature are evil. 
+
+I'll explain why later. 
+
+[Reply by email](mailto:noahie@fastmail.com)

@@ -1,0 +1,16 @@
++++
+title = "On Personal Responsibility"
+date = 2025-09-14
++++
+
+I'm sitting here at my desk in my bedroom as the clock veers towards midnight, anxious to get another day's worth of writing in before I lose my self-imposed streak. It's really not even a daily streak, but it's more of an individually aligned sense of consistency that makes me feel, I don't know, productive? Well, at least I'm here and not putting it off and putting it off until it fades into obscurity. No, I'm here, doing this and doing it until I feel happy about what I've written down here in my cute little text editor. 
+
+I feel like one thing that's important for me to admit to myself is that I am, unfortunately, allergic to responsibility. This isn't something unique to me, but it is an ailment that I suffer from and its symptoms have turned me into a spineless chud. I've had this bad habit over the last several years that has developed into a false sense of nobility from my suffering. At first, I thought that I was doing a good thing by putting all of my pain in writing. It was cathartic at first, sure, but I realize now that it was a defense mechanism against a dwindling sense of personal responsibility. Now, this doesn't discount my pain in any way, but I think that for a long time I couldn't see the forest for the trees. It became easy for me to use my pain as a crutch and to tell myself that I didn't have to push through it. I still get frustrated by episodes of depression when they happen and it's still hard to fight through them, but I know that I can get just a little bit better each time I go through it and because of that, I can learn to live with it and not try to force a life that doesn't accept it for what it is. Unfortunately, humanity hasn't culturally or medically figured out how to deal with people with my condition, but I am far from the first person who has had to deal with being on the outside of the conventions of society. I could look to that with embitterment and resentment, but instead I choose to take my part in doing what I can to make the world better, not worse. 
+
+![hank hill jackass](https://noahie.xyz/images/hank-hill-jackass.png)
+
+I know that writing these little blogs and essays and short stories doesn't seem like it does a lot for people and hey, maybe it doesn't. But I am not of the persuasion that a vocation is something that necessitates some kind of income to be seen as valuable. I gave all of the content on this site a specific Creative Commons license so that today or in any kind of distant future, the writing presented here will not be used to make any kind of money for anybody, including myself. I've been fortunate enough to be born into a life that doesn't necessitate a constant kind of gainful employment and I've also been fortunate enough to see the profound impact of good writing on myself and others. So with that, I don't want any kind of capitalistic perversions to get in the way of the potential for my writing to make an impact on other people. I don't want to be some kind of fake fucking phony. 
+
+If I write and write and it barely gets read, I don't care. I know that I have something to say and I will do whatever it takes to get it out there. 
+
+[Reply by email](mailto:noahie@fastmail.com)
