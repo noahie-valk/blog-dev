@@ -147,7 +147,9 @@ Marty stays silent as she escorts him to the front door. She opens it for him. H
 
 It's dead. 
 
+[Reply by email](mailto:noahie@fastmail.com)
 
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
 
 
 
