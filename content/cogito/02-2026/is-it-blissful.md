@@ -9,7 +9,7 @@ The despair is marching its way back into my life. I am losing motivation to pra
 
 Ultimately, I know that I can receive that deliverance and grace, but I don't know if the doubt comes from demonic presence or if it's from myself alone. It's one thing to blame your own iniquity on demons, but true accountability seems even worse. It's worse because it's something that I have to work on. It's not a demon that I have to cast out, but a part of myself that I have to change.
 
-And I don't know how to let it go. 
+And I don't know how to let it go. I don't know.
 
 ![god will kill me](https://noahie.xyz/images/god-will-kill-me.png)
 
