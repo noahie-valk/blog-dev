@@ -1,6 +1,6 @@
 +++
-title: "Monastic Prince"
-date: 2026-02-20
+title = "Monastic Prince"
+date = 2026-02-20
 +++
 
 I started a new project last night. I plan on releasing it later today.
