@@ -30,4 +30,4 @@ Wisdom. Perseverance. Rest.
 
 [Reply by email](mailto:noahie@fastmail.com)
 
-**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
