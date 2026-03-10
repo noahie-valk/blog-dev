@@ -8,6 +8,7 @@ author = "Noahie Valk"
 # RSS feeds
 generate_feeds = true
 feed_filenames = ["rss.xml"]
+feed_limit = 10
 
 # Taxonomies
 taxonomies = [
