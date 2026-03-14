@@ -14,7 +14,7 @@ There was this one boy I remember from back then. He was in my small group when 
 Those adolescent experiences were formative in how I saw strength training. For years, I found most of it to be flashy, overcompensating, and at times masturbatory. As I've gone through my experience becoming a frequent gym-goer, my perspective has matured quite a bit. Gyms can often be places of vanity; all the mirrors and people recording their workouts for social media make this an annoying facet of it. But after building my own habit over the course of almost a year, I've observed the people who go and the ones who keep coming back. What I've found is people of all ages, sexes, ethnicities, and creeds all cohabiting the same space with a key objective in mind: physical and mental wellness. For many of these people, the gym is an important part of their self-care routine. Regardless of skill level, most generally have the same attitude—maintenance, gradual improvement, and mental replenishment.
 
 <video controls playsinline style="max-width:80%;border-radius:8px;margin-left:auto;margin-right:auto">
-  <source src="/images/compliments.mp4" type="video/mp4">
+  <source src="/images/compliments.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
