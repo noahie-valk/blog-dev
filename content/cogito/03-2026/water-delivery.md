@@ -1,0 +1,24 @@
++++
+title = "Water Delivery"
+date = 2026-03-18
++++
+
+My dreams have been going crazy lately. I find myself in these periods about every few weeks where my dreams will be particularly vivid and memorable. More than likely, this is because my body is finally catching up on the sleep debt that it accrues over the course of a few weeks, and I am able to get some kind of decent rest. Otherwise, I would literally be dead. For someone who has strong dreams and really enjoys literary things, I've never been too keen on dream analysis or anything of that sort. I think this is because I have a fundamentally different metaphysics compared to your everyday Jungian psychoanalyst. Whereas they would ascribe dreams as a sort of manifestation of the subconscious—that is, what you're *really* thinking—I personally believe that dreams are simply another layer of reality itself. Of course, the rules in that reality differ from those here. Regardless, my dreams are so vivid that I simply refuse to believe that they are anything but real. 
+
+Last night, I had a particularly memorable dream. I was laying in bed asleep, but thoughts were circulating through my head about supposed plans to hang out that I had made—with guys I went to middle school with. There was this feeling in my mind and in my body that I was younger than I am now, as if I almost transported back in time to when I was that age. However, I was in the house that I am currently living in, and not the one I was living in when I was that age. It was the middle of the night, and it was pouring down rain; it was one of the heaviest downpours of rain I had ever seen. I could hear the rain pattering on my window. Suddenly, I saw that those guys I made plans with had opened the window next to me from the outside, and they were trying to coax me into hanging out with them. 
+
+![ascend](https://noahie.xyz/images/ascend.png)
+
+In the next moment, though, they were nowhere to be seen. I heard a loud knocking on the front door of my house. I woke up, still feeling rather languid, and walked out of my room to the front door. As I walked to it, I saw that it was already completely open. Weirder still, there was a group of people bringing in cases of bottled water—in the pouring rain. They looked like they were in a hurry, too. Then one of them approached me; she was an elderly Black woman and looked like she had just gotten out of church. She told me that she needed help getting this water delivered to everyone in the neighborhood. Despite dreading the idea of going out into the pouring rain, I eventually assuaged because of pressure from my parents who were witnessing this strange delivery take fold. 
+
+From there I donned a hi-vis vest, took some cases out of the trunk of a car, and went to work—delivering cases of bottled water—in the pouring rain. The only delivery I remember making was one where I knocked on the front door of someone's house, and they opened it. I tried explaining to them that I was there delivering water for them, but they acted shocked. "Why the hell are you delivering water right now? It's like five in the morning and it's fucking pouring rain," the woman at the front door said. For some reason, I felt indignant toward her remark, even though I knew the situation was totally absurd. We ended up exchanging a few verbal blows, but then I ended up walking off. Suddenly, I saw one of my coworkers walk up next to me; it was one of my old middle school friends. "Man, this job sucks," he said. "You know what's even worse?" I asked him back. "I'm not even getting *paid* for this shit. They just conscripted me from my house. You know we can just leave, right?" My friend's eyes started widening. "Yeah, you're right. Let's get out of here," he replied. Then we threw off our vests and ran off into the neighborhood to play in the rain. 
+
+![rust cohle](https://noahie.xyz/images/rust-cohle.png)
+
+All in all, I do see some Jungian layers at play in that dream. Right off the bat, the irony of delivering bottled water in pouring rain screams in a way that only I could muster. Still, I'm not entirely sure what my bottled water or pouring rain is. It could be the writing that I do here, or some other extraneous thing I'm trying to give people that I'm not aware of. I don't think there's much use in trying to tie some kind of thematic bow onto it, but the fact that I can recall the dream almost scene-by-scene hours after waking up is profound. I can do this with dozens of dreams that I've had, but I don't know how unique that ability is. My dreaming capabilities strengthened massively after I quit my daily weed habit, and ever since then over the last several years, I dream more than ever. 
+
+That itself is the real indicator.
+
+[Reply by email](mailto:noahie@fastmail.com)
+
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
