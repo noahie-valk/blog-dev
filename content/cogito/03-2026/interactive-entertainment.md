@@ -13,7 +13,7 @@ I had been engaging in those communities for years. Pretty much ever since I lef
 
 The sadness came from seeing just how chronically online these people were. They would be on calls throughout the entire day, constantly switching between sending messages and scrolling through social media. For many, it felt as if there wasn't a single moment they weren't connected to some sort of device. Because of this, I could see some of the most intimate aspects of their lives being consumed for entertainment. I'd see people get into domestic disputes, do drugs, and even have interactions with the police. It was something that, despite making me feel uncomfortable, I kept coming back to. Discord, like all the other social tech platforms, stays in business by keeping people glued to their application for as long as possible. Despite my own issues with social media addiction and quitting many of the major platforms, I found myself just as entrenched. 
 
-![lifted curse](https://noahie.xyz/lifted-curse.png)
+![lifted curse](https://noahie.xyz/images/lifted-curse.png)
 
 My thinking was that as long as it wasn't an infinite feed of algorithm-generated content, I was safe. I felt that because I could have conversations with people, there was a certain value there that platforms like Xitter or Instagram couldn't give me. In some aspects, I think that's fair. I really did get into some good and meaningful conversations with people. Despite the weird parasocial nature, I did receive some genuinely fruitful insights from a cast of unlikely people. Those moments kept me there for as long as they did, but I've found that the signal-to-noise ratio couldn't justify those increasingly scant good moments. I wanted to make friends, but those platforms don't optimize for it. 
 
