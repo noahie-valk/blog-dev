@@ -14,7 +14,7 @@ I had fallen out of playing music when I finished high school. On top of not ach
 Beyond that, most professional saxophone players are basically the same person; when I watched those videos of guys I went to school with, I felt vindicated. Those guys, even ten years after high school, sound the exact same—playing the same twenty licks or so every song, doing the same trite jazz combo gimmick. I was getting tired of it by the end of high school, so if I found myself still trying to do that shit ten years later, I'd probably want to die. That was one thing I hated about jazz education: there's no sense of innovation. Everyone wants to sound the same, be the same, and do the exact same thing for the rest of time. When I'd work with teachers, they'd always tell me I'd have to constantly be transcribing solos and studying the greats. I think that's a good use of time, but there are significant diminishing returns in it after so long. You know who my favorite person to transcribe was? Myself. I always had melodies in my head I wanted to work out on the horn, so most of my practice involved singing the melodies and trying to get them to sound how they did in my head. 
 
 <video controls playsinline style="max-width:80%;border-radius:8px;margin-left:auto;margin-right:auto">
-  <source src="/images/rhs-gorilla-jam.mkv" type="video/mkv">
+  <source src="/images/rhs-gorilla-jam.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
