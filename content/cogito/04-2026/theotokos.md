@@ -3,7 +3,7 @@ title = "Theotokos"
 date = 2026-04-09
 +++
 
-It's been about a week of no cigs and no porn. Go me!
+It has been about a week of no cigs and no porn. Go me!
 
 While the time apart from those things is irrelevant, I am more optimistic about this attempt at abstinence. Especially regarding the pornography, I'd be having all kinds of insatiable somatic urges at this point, but I haven't really been feeling much of that, oddly enough. It seems as if my body really is starting to catch on. I will absolutely say it's been easier this time around because of the increased fervor in my prayer. I had this idea for a while, but didn't implement it until recently because I was scared of doing it: any time I feel an urge, do one circle around the prayer rope. If the urges continue, stay at the prayer rope until they leave. I was scared of it because I doubted the prayer—that I'd relapse anyway and begin to lose faith in it. But so far, prayer really does work.
 
