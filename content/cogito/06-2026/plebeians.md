@@ -3,7 +3,7 @@ title = "Plebeians"
 date = 2026-06-04
 +++
 
-<<video controls playsinline style="max-width:80%;border-radius:8px;margin-left:auto;margin-right:auto"> <source src="/images/hexcrush.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
+<video controls playsinline style="max-width:80%;border-radius:8px;margin-left:auto;margin-right:auto"> <source src="/images/hexcrush.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
 
 I spent most of yesterday sleeping, so I couldn't write at all. Thankfully, I still had enough stamina in me to get to trivia last night, so there's that at least. Sleeping so much is not fun, but with how fractured my sleep can be, getting those multiple hours when I can is necessary. I've gone from taking my antipsychotic on occasion to pretty much every night now for the last week or so. It's been nice because I can actually get to sleep at a decent time, especially since the recent change in season has historically been a more manic time for me. That late spring/early summer time inevitably leads to moves being made, usually. Speaking of moves, I'll be flying out to LA for a friend's wedding tomorrow. It's a very nontraditional wedding; instead of there being a large guest list and separate venues, it'll be about nineteen of us sharing a large house for the weekend. My pal and his fiancée have been adamant in keeping the event as low-key as possible, and with how my energy can spike and dip, a low-key event sounds nice despite my disdain for traveling.
 
