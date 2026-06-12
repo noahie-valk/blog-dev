@@ -1,0 +1,23 @@
++++
+title = "Mundanity"
+date = 2026-06-12
++++
+
+<video controls playsinline style="max-width:80%;border-radius:8px;margin-left:auto;margin-right:auto">
+  <source src="/images/maronite.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Last night while falling asleep, I was reflecting on the last ten years or so of my life, as one does. Looking back into the past, despite my attempts to proselytize myself into not doing so, is something I do quite frequently. I was looking back on different arcs and seasons of life and kept telling myself "damn, what a shitty life I've lived." This, of course, was me magnifying the stupid stuff—mistakes, failures, missed opportunities, and so on. More than that, it was kind of a selfish blast from the past; I kept thinking all about me, me, me. In that rumination before setting off for dreamland, all I could think about was the stuff I did, and not even for a second about all of the people supporting me in spite of my perceived failings. My friends who lent their ears, family members who stayed in my corner despite my prodigal outings, and all the kind strangers I met—none of those people came up in that rumination. So of course, I got a bit sad before falling asleep because I couldn't get past my own nose. But now that I'm awake and thinking about all of it, I hope I can course-correct my thoughts so that I can do better at acknowledging the wonderful people I've been blessed to know.
+
+I don't pray for them enough. I do pray for them, but with how powerful I know prayer to be, it's surprising to me that I'm not doing it every second of every day, you know? I'll try praying for you today, I promise. If you're a reader and you haven't reached out to me and want some prayers, please send me an email. I'll do my best to include you in today's prayers. As I've been growing as a catechumen, I've had a certain growing pain regarding the routines in my prayer life. I have my icon corner in the computer room of my house, but over the past few months, I've barely gone to it at all. I've been less diligent in memorizing prayers I want to learn, and I've definitely lost a few lines in the Symbol of the Faith. I've been torn between wanting to memorize the Trisagion prayers and Psalm 51 (KJV); with the former, that would be a great way to kick off a more formal routine, but the latter is just such a beautiful and essential prayer that I'd love to have memorized sooner.
+
+I have plenty of difficulties in keeping routines, particularly due to my high and rigid standards with them. I think I'm like a lot of people—I break a streak, I lose morale and fall out of a certain routine. That's definitely how it's been with prayer, but I know I can establish and keep routines. For the longest time, I couldn't get a good morning routine figured out. But for the last year or so, I have it down pat, and it's a great way to start my mornings. It's just the basic hygiene stuff, you know? I have a little sticky note on my bathroom mirror that gives me the small checklist of things to do, and I consult it every morning despite doing that stuff every day. My attention is a darting thing, you know? It always has been, but I've made many efforts throughout my life to compensate for it. I can forget stuff a lot because I can think of ten different things to do in between wanting to perform a task and the action itself. Seriously, if I don't write it down, it's gone.
+
+But with something as spiritually important as prayer, I'm surprised at how nonrigid I am with it. I'll say prayers I have memorized throughout the day, just as I'm thinking about it. I do the sign of the cross as much as I can, and that to me is a great way to encapsulate everything into a single unified action. I can also get upset with myself, particularly when I am actively aware of certain sins I am committing, and acting on them anyway. I know the whole point is to have God work through me for repentance, but I've come to realize just how much of a long game it really is. The yoke itself is an immense one to carry, but I know I'm not doing it alone; that's why church has been a wonderful weekly event for me. The actual rituals of the Divine Liturgy itself don't really mean a whole lot to me, and the "fullness" that many other parishioners speak of isn't something I actively yearn for. To me, it's honestly on the same level as brushing my teeth, taking a shower, or having a cup of coffee in the morning.
+
+The mundanity is what makes it beautiful.
+
+[Reply by email](mailto:noahie@fastmail.com)
+
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
