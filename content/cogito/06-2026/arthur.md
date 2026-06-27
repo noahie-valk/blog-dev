@@ -17,4 +17,6 @@ I just hope I don't fuck this up. I hope I didn't make the wrong decision in tak
 
 [Reply by email](mailto:noahie@fastmail.com)
 
+<a href="https://liberapay.com/noahie/"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
 **Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
