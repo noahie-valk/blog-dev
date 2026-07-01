@@ -1,0 +1,22 @@
++++
+title = "Not Done Yet"
+date = 2026-07-01
++++
+
+[Noahie AI Slop](https://noahie.xyz/images/noahie-ai-slop.png)
+
+Yesterday, I played trivia at a new bar. I was at this place a few minutes from my house a few weeks ago—in an entertainment district in my town—and was hanging out, doing stuff on my laptop. Across from that bar was another one, and they were hosting trivia. They were already about halfway through the game, so in between rounds, I hopped in and asked the MC for details. "We play every Tuesday starting at 7:30," she said. So yesterday, I went in to play. I approached the MC and asked if she could set me up with a team, and she kindly agreed. It was great meeting them; they had been playing trivia at different bars for years, and they made this bar their current home for it. The MC used to be on their team, but when the old MC quit, she stepped up to keep the game going for everyone. We got second place, and I had a great time.
+
+It turned out they were also good friends with a guy I went to school with—someone I hadn't seen since then. He works as a head chef at the nice steakhouse in the entertainment district, and it was a trip seeing him. He’s been doing well, and I was glad to catch up. I was *also* glad to get a free drink at that bar as it was closing. All in all, last night was a good time, and I'm hoping to add Tuesday night trivia to my social routine. It feels good to go out, not be isolated, and be surrounded by good company. I spent a lot of years aimless and distraught, angry at systems I had no control over. More than anything, I was angry at myself; being unable to cope with the conditions God gave me for this life has been difficult, but just as He is slow to anger, He is rich and tender with His mercy. I know as long as I remain vigilant in my pursuit of peace, thousands around me will be saved.
+
+It feels good to come to the page and feel inspired, rather than downtrodden by negative emotions. I'm glad I can come here and tell you all not just about my struggles, but the small triumphs of everyday life. What's better is that there's no sense of "overcoming," but a true sense of serenity in my own skin. I've had to put in a lot of work cultivating a small, peaceful garden in my mind, as reflected in the pages of this website. I'm glad to have this work and my interests keeping me pushing throughout the day. There's nothing else I have to worry about outside of getting through today and managing my resistance toward that. What I've found in this work is that the flames in the [tunnel](https://noahie.xyz/blog/cogito/06-2026/tunnels) have gotten stronger and more plentiful. I hope to maintain caution, so as not to burn myself alive in keeping them lit.
+
+To elaborate on my musings from [yesterday](https://noahie.xyz/blog/cogito/06-2026/computer-guy), TNT has been going well. I've got a mix that's about 15 minutes long so far, and it's been cool working through [Reaper](https://reaper.fm) and learning the workflows. Honestly, it's even *easier* to use than FL Studio. I think a big part of that comes from how much I prefer Linux over Windows, and learning to customize and automate my workflows has been a fun process alongside pursuing the craft of studio mixing. So far, the mix is rather elementary in its execution; the main thing I've been figuring out is cross-fading between tracks and understanding how to best transition between them. The thing I'm most excited about is showing the eclectic range of my tastes in a unique package; it's an art I'm looking forward to sharing with y'all. The first tape will hopefully be out either today or tomorrow, since I've been making good pace. It'll feel awesome once I release it.
+
+It's made me wonder about all the possibilities in music production. I have a background as a saxophone player, and I know there are MIDI controllers on the market sold as "portable saxophones," so if I can figure out how to set that up, I'd be in an auspicious place creatively. I love jazz and electronic music, and being able to bridge those two in a way that is original would be something I hope is resonant to a passionate audience. It's exciting, and things like this—with no major goal at the end—make it exciting not for any kind of end result, but for finding joy in the pursuit itself. We're not done yet.
+
+[Reply by email](mailto:noahie@fastmail.com)
+
+[Support my work with Liberapay](https://liberapay.com/noahie)
+
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
