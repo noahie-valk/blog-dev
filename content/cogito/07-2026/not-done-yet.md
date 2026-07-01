@@ -3,7 +3,7 @@ title = "Not Done Yet"
 date = 2026-07-01
 +++
 
-[Noahie AI Slop](https://noahie.xyz/images/noahie-ai-slop.png)
+![Noahie AI Slop](https://noahie.xyz/images/noahie-ai-slop.png)
 
 Yesterday, I played trivia at a new bar. I was at this place a few minutes from my house a few weeks ago—in an entertainment district in my town—and was hanging out, doing stuff on my laptop. Across from that bar was another one, and they were hosting trivia. They were already about halfway through the game, so in between rounds, I hopped in and asked the MC for details. "We play every Tuesday starting at 7:30," she said. So yesterday, I went in to play. I approached the MC and asked if she could set me up with a team, and she kindly agreed. It was great meeting them; they had been playing trivia at different bars for years, and they made this bar their current home for it. The MC used to be on their team, but when the old MC quit, she stepped up to keep the game going for everyone. We got second place, and I had a great time.
 
