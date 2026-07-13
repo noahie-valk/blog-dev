@@ -28,3 +28,9 @@ KETTAMA — Split in Two Minds
 ho99o9 — Deathkult Disciples (999 Anthem)
 
 Deafheaven — Dream House
+
+[Reply by email](mailto:noahie@fastmail.com)
+
+[Support my work with Liberapay](https://liberapay.com/noahie)
+
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
