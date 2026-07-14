@@ -3,8 +3,6 @@ title = "The Noahie Tapes I"
 date = 2026-07-13
 +++
 
-![TNT 1](https://noahie.xyz/images/tnt-1.png)
-
 <audio src="https://noahie.xyz/images/TNT-1.mp3" controls>
   Your browser does not support the audio element.
 </audio>
