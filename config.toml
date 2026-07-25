@@ -3,7 +3,7 @@ title = "Noahie's Blog"
 base_url = "https://noahie.xyz/blog"
 default_language = "en"
 output_dir = "../site/blog"
-author = "noahie@fastmail.com"
+author = "noahie@fastmail.com (Noahie Valk)"
 
 # RSS feeds
 generate_feeds = true
