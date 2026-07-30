@@ -1,0 +1,24 @@
++++
+title = "Crown of Shit"
+date = 2026-07-30
++++
+
+![shreds](https://noahie.xyz/images/shreds-2.png)
+
+When I get depressed, it's much easier to forget what matters, usually because of the anguish that comes from it. Sometimes there are triggers, but many times it's nothing; it's just an unpredictable facet of my life—part of my cross to bear, I suppose. I'm glad that my work exists in this archive because it helps me remember all the days I wrote in spite of everything, how no matter what came my way, I still got *something* out on the page. That's a nice thing to have these days, and it emboldens me to keep going. I don't care much about everything else out there, you know? It's an unnecessary burden, really. More than that, it's a trap that keeps me from pursuing what I now know to be my life's work. Regardless of what happens, I know this trade and vocation will be here, even when everything else fails me. Even if I have to keep showing up to the page and remind myself of this fact, I'll do it regardless of who's watching.
+
+It's much harder to pray when I get depressed, and it's something that's hard enough as it is. It's gotten to the point where I can pinpoint and name the resistance every time I find that time to pray, and having to cast out those demons in the name of what's right and good is a tough thing, even if it's a simple process. I couldn't imagine having a harder yoke, and if I'm lucky, the Lord won't give me much more. When I look at my life—this quiet, monotonous, and disappointing thing—it doesn't give me much satisfaction to work the way I do; yet despite that lack of resolution and substantive payoff, I do it anyway. A common mantra I tell myself: if it affects even just *one* person positively, if it leads just *one* person closer to God that day, the job is finished. Everything else is fucking bullshit, really. This life is a testament to the mercy of Christ, how despite everything I've done to distance myself from Him, even I can find my way back every single day, day in and day out.
+
+Media has become this commodified thing on even the most microscopic of levels. All the clicks, all the logging, all the incessant tracking and sales pitches—it disgusts all of us, even if we don't know why or don't even want to admit it. This isn't any way to live, yet so many of us go about it anyway; perhaps it's because we can't see any other way out of it, and maybe in this moment, there isn't one. I know that most of the time when I pray, I feel *nothing*, absolutely nothing at all. The same blackness in my heart I feel every other moment of the day is the same ineffable hue I bring to my Lord, and I don't feel cleansed in any way. It's like a stain that no matter how many times you wash it, or however many chemicals you throw at it, it won't go away. This feeling of distance, of darkness—it's the exact thing God wants me to feel. Can you believe that? Do you believe me?
+
+I don't care either way, and I will continue to bear this stain; even if new ones take its place, even if the skin tears and forms a new cicatrix, I'll hold onto it. Maybe it's because there's nothing else I have to hold onto, and that's fine with me, quite frankly. I don't give a fuck about what I want anymore, mostly because the things I want are stupid and bad. I deserve to be horribly and mercilessly punished for my insolence, and I have no illusions about any sense of dignity or rights I'm entitled to. The only thing I'm entitled to is a crown of shit, and I'll wear it every day until my body gives up on breathing—or if it gets torn apart limb from limb. Even with that last breath, I'll thank God for even a small chance at repentance. His great and rich mercy goes beyond any of our conceptions, and even in the throes of this horrendous and torturous suffering, I'll still find a way to give Him praise for what He's done for us.
+
+I don't need any evidence. I don't need any confirmation from above, and I most certainly don't need the words of someone else professing a great miracle. Hide it all from me, because I'm not worthy enough to see them. No, I'll just be here, doing this every day until—I don't know what. That's fine with me; it's a fair enough penance for a guy like me anyway. If it gets worse, or even if it gets better, I don't want any of that affecting my priorities, and though I only have a few, I'll try my best to hold them close. I'll fail, that much I know, but I'll try and stick to them anyway. Acquiring that spirit of peace, even amid the constant and enduring suffering I fight, is something I will strive for. I could be bent, broken, beaten, maimed, and destroyed—it doesn't matter to me anyway. Maybe one day I'll find rest, but probably not today.
+
+Keep it coming, fuckers.
+
+[Reply by email](mailto:noahie@fastmail.com)
+
+[Support my work with Liberapay](https://liberapay.com/noahie)
+
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
