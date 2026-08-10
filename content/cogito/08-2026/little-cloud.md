@@ -1,0 +1,22 @@
++++
+title = "Little Cloud"
+date = 2026-08-10
++++
+
+![macallan](https://noahie.xyz/images/macallan.png)
+
+One can be smart *and* disabled, you know?
+
+I remember as a teenager during the peak of Obama II how the increasing rhetoric of "invisible disability" felt like such a grotesque cop-out. Funnily enough, I used to think depression wasn't real—that the people who said they were suffering from it were making it up for attention. With that shoe now firmly on the other foot, I feel humbled in realizing how much of a snotty, arrogant asshole I was back then. Don't get me wrong—they were making up other stuff for attention, but I'll give them the depression thing; being a teenager fucking sucks. But now that I've been through challenges of my own, I know that I can hold my ailments with dignity. Even though I can be eloquent and explain complex concepts like calculus and atomic theory, I am still fundamentally under-attuned to the stressors of everyday life; I am weak in ways most would perceive as strong. Well, at least I get to make good art out of it. That's a decent plus. In an admission of weakness, I can find the strength to persevere and protect the things that actually matter—my sanity, my health, my family. I cannot leave those things behind, no matter what greater rewards may fall before me. Here's a story I don't think I've told y'all yet:
+
+Back in May of 2020, I was on a manic high—cooped up in my apartment with my four other roommates, no less. I hadn't slept in about five days, and after that long without sleep, one begins hallucinating—or as I like to believe, getting more spiritually tapped in. Those auditory and visual hallucinations are like no other. I started seeing writing on the walls in a language that didn't exist. I started hearing voices. I remember there was one that was talking to me, and I was standing there in my room talking to it while pacing frantically. It told me its name was Azazel—a name I had not heard of until then. It told me that it could fix all of my problems—my rampant anxiety, my inability to sleep, my fledgling sense of independence—if I simply pledged allegiance to it in exchange for my soul. I know that sounds crazy, made-up, and stupidly cliché, but I cannot describe it to you any other way. Of course, I told it to go fuck off, and he got *pissed*. To make a long story short, I then had a glorious crash-out on a public bus and spent two weeks in the mental hospital where I formally received my bipolar diagnosis. Joyous, isn't it?
+
+Sarcasm aside, I really do feel a certain sense of joy in going through what I've been through, to still be standing, and to be able to write about these things with the candor that I have. I can look at my life as a testament to something important; the grace of God abounds, even if the suffering totally sucks. The main thing I have to remain vigilant of is my own propensity for sin and to love everyone with the same patience I should have more of for myself. It's a curious thing to confront one's love for sin. It forces one to come to God and say, "Yeah, Lord, I *like* being a selfish and prideful piece of shit. What of it?" Ugh, I can't believe I have not been smitten down for my insolence yet. I can't even believe that I *get* to continue being as insolent as I am. To whom much is given, much is expected—and I feel like I've been given so much, and yet so little. To find the perspective of where I'm at in life is such a tough thing; no matter how vigilant I am or how much forethought I put into things, I still find myself getting blindsided by those corners in my tunnel vision.
+
+How sorry I am. How sorry I am that for being so talented, I can't turn it into a gift. Maybe one day I'll figure it out, but until then, I'll keep writing to assuage my need for a sense of productivity. Just another day to flatter myself, I suppose. I wonder if I'll actually be able to truly challenge my own sensibilities—if I can actually come down from this little cloud of mine and humble myself enough to actually do some good. For being so frail, I come off way too strong—like shooting a Macallan 12 instead of sipping it. That shit sucks, by the way. For being as expensive as it is, why does it taste like cigarette butts?
+
+[Reply by email](mailto:noahie@fastmail.com)
+
+[Support my work with Liberapay](https://liberapay.com/noahie)
+
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
