@@ -1,0 +1,22 @@
++++
+title = "None"
+date = 2026-08-18
++++
+
+![none](https://noahie.xyz/images/none.png)
+
+I've been struggling with feelings of shame. With this project, confessing all the things I have—all under my government name, no less—it makes me feel like I've taken an extremely miscalculated risk. I guess in my mind, I found that there would be a certain sense of liberation in writing all of this stuff down, and while it feels that way sometimes, I find that I might've said too much. There's a certain danger in making oneself so known; and while I might still hide behind certain layers of obscurity, I know that what I've done is practically irreversible. It's not like I had much to lose anyway, but I'm starting to feel like a bit of an idiot for sharing everything I've shared here. What's worse is that my only solution is to double down—to keep writing it all down until, well, *something* happens. I can get a bit delusional, thinking that I'm producing some kind of great ethnographic landmark, but the impermanence of it all is part of the design. It's something I can never get away from, no matter how much I come to the page to escape it by means of a fierce, uncompromising confrontation.
+
+My anti-institutional ethos has become my greatest downfall, and the more I reject the big organizations that govern us, the more I find myself crying from the periphery. It's a desperate and sad thing, to be so dejected from it all, yet to want nothing more than the freedom and security those things claim to offer. As much as I fill myself with envy for those who sacrificed parts of themselves to stay inside the lines, I feel a sense of guilt for not doing the same. Refusing to conform has quite a cost, and I pay it every day I come to write here. I do it for basically nothing, and while there's a beauty to that twisted irony, it's one that shows its thorns every once in a while. I come here just to prove a point: that everyone who writes does it for basically nothing, but that there can at least be a sense of sincerity in doing so. It's a post-prestige world we live in, and the only way to stand out is through the merits of the work itself. The distribution channels are broken and clogged, despite how free those wires might look. Someone still has to maintain them, look after them, and make sure they don't fail.
+
+I find that my voice is my strongest asset, but I'm starting to see the sword's second edge. In the same way I refuse to conform to systems, all I've really done is create one of my own—a beautiful expressionism, painted with just a single color. Even if I increase the volume, it doesn't make the hues any different. No matter how many creative metaphors I employ, I still find myself singing the same old songs. Sad, isn't it? It seems that with every show, I find myself getting less and less jazzed about it all. Perhaps another one of those dark nights is coming, or maybe it's already here. In spite of the unreal beauty and horror that surrounds me every day, I still can't find a reason to come before my Creator and give Him the time of day. It's a struggle getting through it all, figuring out how to stop being so beside myself. Maybe if I just keep going, I'll figure it out. Maybe not; I don't know.
+
+Even if getting all of this out makes me feel better sometimes, I'd say most of the time it doesn't really do shit. Most things I do don't really do anything for me. I've struggled my whole life trying to find that thing that'll make me whole, and yet I still find myself exploring the ether, trying to find something that'll give it to me. I don't think anything will, really. Not even prayer, not even a vocation—just that doomed empty feeling until I die. I don't think I've suffered enough for my insolence. I don't think I've truly examined those deepest parts of myself. I think I've just looked at them, and kept looking away. But I don't know how to move forward, I really don't. I've never been much of a strategist, and I don't like spending my time planning ahead; it makes me too sad, too hopeless. Perhaps another season of humbling is in order. Maybe if I just get far enough down into rock bottom, I'll start climbing my way back up. Even if I fall again, maybe the impact will carve a newer, deeper hole.
+
+I'll make camp there if I have to.
+
+[Reply by email](mailto:noahie@fastmail.com)
+
+[Support my work with Liberapay](https://liberapay.com/noahie)
+
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
