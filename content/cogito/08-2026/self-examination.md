@@ -1,0 +1,24 @@
++++
+title = "Self-Examination"
+date = 2026-08-29
++++
+
+![one day](https://noahie.xyz/images/one-day.png)
+
+[Self-aware, but not self examined](https://noahie.xyz/blog/cogito/08-2026/puer-temporis/). That phrase has been plaguing me something fierce. Along with an actual bout of sickness I've been facing since Thursday night, it's something that has been eating at me incessantly. Perhaps I can make an attempt—albeit one probably in vain—at actual, honest-to-all-of-you self-examination, though I fear I might just spend more time writing myself in circles. But I think back to an interview Louis CK did back in the day—one that I don't care to track down right now. To paraphrase, he was discussing making new hour-long standup routines and how he found it difficult to produce them with a frequency that matched the quality he wanted to be capable of. He said that the only way he could keep going was by peeling himself like an onion, going deeper and deeper into himself until something funny came out. Refraining from self-judgment allowed him to find more sources for jokes; so, if I want Cogito to be any level of *actual* self-development, I find that I have to do the same thing—even if it's just through a stream-of-consciousness free-writing exercise.
+
+But anyway, the problem of True Self-Examination.
+
+If I were to actually reflect on my life, whether through cultivated routines or the summation of my decisions, the single most palpable theme that keeps recurring is one of control. I find myself constantly at battle to maintain a sense of self-control. Much of my day revolves around this nagging thought—that at any moment, things could all start crashing down and I'll find myself back in the hospital. The trauma of having completely lost my sanity multiple times throughout my life has put me in what I can only describe as a self-imposed corner; it's a purposeful act of containment so that I don't go out hurting myself or anyone else with my reckless abandon. There are some people who claim not to give a fuck about anything, and then there are those who *actually* don't give a fuck about anything. In my past, I found myself in that latter position; there were no belief systems that held me accountable for my actions, and at times I was so thoroughly convinced that I had nothing to lose that I didn't give a single shit about any outcome. I convinced myself that it all levels out to zero when it's all said and done, so why should it matter if I make a stupid decision?
+
+Though when I truly and finally lost it behind the wheel, I came back to a sobering reality. There *is* something I have to lose; the people in my life who love me and care about me would be devastated if I fucked it all off. More than that—there really is a soul somewhere in here, and that zero-sum game I thought this life was—it was a distorted fabrication crafted by Satan so that I'd lose my soul in the process of not giving a fuck about anything. It came at me in waves of despair, resignation, and anger; those then warped into an inverted sense of pride. For as self-aware as I or whoever else purported me to be, it was the one blind spot I couldn't see for the longest time. Growing up, if I were ever feeling down on myself, my mom would tell me I had a bad case of "poor-me-itis." I'm sure we've all met someone with a bad case of that, haven't we? That one person who, no matter how good they have it, can only ever find what's wrong with themselves and the world—and we always end up making them live up to that self-fulfilling prophecy.
+
+So in that sense, a true act of self-examination doesn't just pertain to asking what things are like or how they've been. If I want to actually self-examine, I have to ask myself what it means to move forward. I have to take the chips I've been given and play a hand, regardless of how high or low the stack is. I've talked about how nice it would be for Cogito to keep going for a long time, and it does seem nice; there's also been a weird sense of denial I've dealt with in regard to getting paid for writing. I've felt bad about asking for money, and I've felt like this idea of getting paid to write is some loony pipe dream in this sort of post-text era we find ourselves in. Even if taste defines culture more than ever, I still question my own sense of it. But in this attempt at self-examination, I want to refrain from being so unsure; perhaps I should act anyway—with all the stakes calculated and risks measured—and just figure it out as I go. I know it's not a zero-sum game anymore, and it's all culminating into something. Now, I just have to accept my vision and execute.
+
+One day at a time, anyway.
+
+[Reply by email](mailto:noahie@fastmail.com)
+
+[Support my work with Liberapay](https://liberapay.com/noahie)
+
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
