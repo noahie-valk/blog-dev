@@ -1,6 +1,5 @@
 +++
 title = "August 2025"
-weight = 13
 sort_by = "date"
 template = "blog.html"
 page_template = "blog-page.html"

@@ -16,11 +16,26 @@
 
 {% if section.subsections %}
   <h2>Months</h2>
+  {% set items = [] %}
+  {% for subsection_path in section.subsections %}
+    {% set subsection = get_section(path=subsection_path) %}
+    {% set parts = subsection_path | split(pat="/") %}
+    {% set dir_name = parts[1] | default(value="") %}
+    {% set date_parts = dir_name | split(pat="-") %}
+    {% if date_parts | length == 2 %}
+      {% set sort_key = date_parts[1] ~ "-" ~ date_parts[0] %}
+    {% else %}
+      {% set sort_key = dir_name %}
+    {% endif %}
+    {% set item_str = sort_key ~ "|||" ~ subsection.permalink ~ "|||" ~ subsection.title %}
+    {% set_global items = items | concat(with=item_str) %}
+  {% endfor %}
+  {% set sorted_items = items | sort | reverse %}
   <ul>
-    {% for subsection_path in section.subsections %}
-      {% set subsection = get_section(path=subsection_path) %}
+    {% for item in sorted_items %}
+      {% set item_parts = item | split(pat="|||") %}
       <li>
-        <a href="{{ subsection.permalink | safe }}">{{ subsection.title }}</a>
+        <a href="{{ item_parts[1] | safe }}">{{ item_parts[2] }}</a>
       </li>
     {% endfor %}
   </ul>
@@ -37,7 +52,6 @@
   </ul>
 {% endif %}
 
-
 {% if paginator and paginator.number_pagers > 1 %}
   <nav class="pagination" style="margin-top:1.5em; justify-content:space-between;">
     <div>
@@ -52,7 +66,7 @@
       Page {{ paginator.current_index }} of {{ paginator.number_pagers }}
     </div>
   </nav>
+{% endif %}
 
 </body>
-{% endif %}
 {% endblock content %}
