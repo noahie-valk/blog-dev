@@ -16,5 +16,3 @@ zola build
 neocities-sync ~/site
 
 echo "✅ Deployed successfully!"
-
-notify-send "Deployment finished!"
