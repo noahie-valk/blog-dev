@@ -3,6 +3,8 @@ title = "Snowflake"
 date = 2026-10-02
 +++
 
+![Friday](https://noahie.xyz/images/friday.gif)
+
 Another influx of coupling thoughts, yet no greater truth to be found in them—how vexed I am, that I continue to write them down anyway. 
 
 An opening tag, a few paragraphs, maybe a closing tag if I feel clever enough for it; yet there's no real thing that's on my mind other than the usual sundries. My sister is fighting my mom for a snack right now, and I continue to write through it anyway. That's life on the weekends, baby. Better to have those you love yell than to be alone and tell myself how much of a dastardly, almost irreversibly fucked-up individual I am. Key word: *almost*. I'm sorry for being such an idiot, Jesus. Maybe if I just keep going, I'll receive what I need. I want nothing more than that, and any other greater desire is inevitably another snare to get my foot trapped in. But in the carnal spaces I find myself seeking pleasure, Your Face shines still, even when I choose not to see it in a small series of passing moments. Second by second, in all everlasting granularity, the plans of the heavens reveal themselves to me, but I choose not to tell people about them—lest I become yet another unreliable oracle who tries to alchemically falsify truth with facts, figures, and stupid SQLite databases. 
